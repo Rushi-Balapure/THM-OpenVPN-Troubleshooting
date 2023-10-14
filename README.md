@@ -11,7 +11,4 @@ Usage:
 
 **Disclaimer -- this script was originally designed to work on Kali, Ubuntu, or other Debian based systems to solve basic OpenVPN errors. If you're using a non-recommended distribution then it is assumed that you can also troubleshoot these errors manually**
 
-**March 2023 update -- the script has been updated to support Arch linux users! With that said, Arch is still a non-recommended distribution. Using this flavor of linux is almost certainly guaranteed to lead to other more specific connection issues that this script won't be able to cover, ultimately taking away from the learning experience at TryHackMe. Use it at your own discretion.**
 
-Any question or issues (or if connectivity problems persist), please ask in the [TryHackMe Discord server](https://discord.gg/F7ERYzz).
-Happy Hacking!
